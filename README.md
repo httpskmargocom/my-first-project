@@ -1,2 +1,2 @@
 # my-first-project
-My resume or whatever
+Yaaay that's my first project!
